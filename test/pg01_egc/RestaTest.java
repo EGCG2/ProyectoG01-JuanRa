@@ -6,7 +6,7 @@ import pg01_egc.Resta;
 
 import static org.junit.Assert.*;
 
-public class AppTest{
+public class RestaTest{
     
     @Test
     public void Test(){
