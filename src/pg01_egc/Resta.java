@@ -1,4 +1,4 @@
-package pg01_egc;
+package src.pg01_egc;
 
 public class Resta {
     public static int resta(int n1, int n2){

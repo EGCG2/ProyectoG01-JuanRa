@@ -1,8 +1,8 @@
-package pg01_egc;
+package test.pg01_egc;
 
 import org.junit.Test;
 
-import pg01_egc.Resta;
+import src.pg01_egc.Resta;
 
 import static org.junit.Assert.*;
 

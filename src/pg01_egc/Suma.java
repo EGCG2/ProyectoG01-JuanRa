@@ -1,4 +1,4 @@
-package pg01_egc;
+package src.pg01_egc;
 
 public class Suma {
     	public static int suma(int n1, int n2){

@@ -1,4 +1,4 @@
-package pg01_egc;
+/*package pg01_egc;
 
 import org.junit.Test;
 
@@ -25,4 +25,4 @@ public class AppTest{
     }
 }
 
->>>>>>> rama1
+>>>>>>> rama1*/
