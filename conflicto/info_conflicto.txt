@@ -1,0 +1,4 @@
+git merge rama1
+Auto-merging test/pg01_egc/RestaTest.java
+CONFLICT (content): Merge conflict in test/pg01_egc/RestaTest.java
+Automatic merge failed; fix conflicts and then commit the result.
